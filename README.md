@@ -27,15 +27,15 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br /> <br /> <br /> <br /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/israiqu) <br /> <br /> <br /> <br /> 
 
 
 
 <p align="center">
-<a href="mailto:israelmunguia@outlook.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="israel-munguia" height="20" width="20" /></a>
-<a href="https://twitter.com/israiqu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="israiqu" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/israel-munguia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israel-munguia" height="20" width="30" /></a>
-<a href="https://es.stackoverflow.com/users/243609/israel-munguia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="israel-munguia" height="20" width="30" /></a>
+<a href="mailto:israelmunguia@outlook.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="israel-munguia" height="20" width="20" /></a>
+<a href="https://twitter.com/israiqu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="israiqu" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/israel-munguia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israel-munguia" height="20" width="30" /></a>
+<a href="https://es.stackoverflow.com/users/243609/israel-munguia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="israel-munguia" height="20" width="30" /></a>
 </p> <br />
 
 
