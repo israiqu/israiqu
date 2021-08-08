@@ -1,11 +1,18 @@
  <h1 align="center">(⌐■_■)</h1> <br />
  
+ <p align="center">
+<a href="mailto:israelmunguia@outlook.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="israel-munguia" height="20" width="20" /></a>
+<a href="https://twitter.com/israiqu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="israiqu" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/israel-munguia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israel-munguia" height="20" width="30" /></a>
+<a href="https://es.stackoverflow.com/users/243609/israel-munguia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="israel-munguia" height="20" width="30" /></a>
+</p> <br />
+ 
 
-- 👋 Hi, I’m Israel Munguia
+- 👋 Hi, I’m Israel Munguia.
 - 🏭 For the last 10 years, my job has been as a consultant and instructor in process improvement, KPIs, quality, risk management, project management, ISO 9001, ISO 27001, etc.
 - 🚀 I’m interested in developing technological solutions for SMEs.
 
-<br />
+***
 
 <h2>I have experience with these technologies.</h2>
 
@@ -20,23 +27,18 @@
 
 
 
-<h2>I am interested in these technologies.</h2>
+<h2>I’m also interested in these technologies.</h2>
 
 <p align="left"> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p> <br /> <br /> <br />
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/israiqu) <br /> <br /> <br /> <br /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/israiqu) <br /> 
 
 
 
-<p align="center">
-<a href="mailto:israelmunguia@outlook.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="israel-munguia" height="20" width="20" /></a>
-<a href="https://twitter.com/israiqu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="israiqu" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/israel-munguia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israel-munguia" height="20" width="30" /></a>
-<a href="https://es.stackoverflow.com/users/243609/israel-munguia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="israel-munguia" height="20" width="30" /></a>
-</p> <br />
+
 
 
 <!---
