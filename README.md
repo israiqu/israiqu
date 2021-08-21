@@ -34,10 +34,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/israiqu) <br /> 
-
-
-
+<a href="https://github.com/israiqu/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israiqu&layout=compact" />
+</a>
 
 
 
