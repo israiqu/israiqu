@@ -34,10 +34,9 @@
 
 
 
-<a href="https://github.com/israiqu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israiqu&layout=compact" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israiqu&card_width=430&langs_count=6" />
 </a>
-
 
 
 <!---
