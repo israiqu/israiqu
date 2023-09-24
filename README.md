@@ -10,8 +10,8 @@
 </p> <br />
  
 
-- 👋 Hi, I’m Israel Munguia.
-- 🏭 For the last 10 years, my job has been as a consultant and instructor in process improvement, KPIs, quality, risk management, project management, ISO 9001, ISO 27001, etc.
+- 👋 Hello, I’m Israel Munguia.
+- 🏭 Over the past decade, I have worked as a consultant and instructor, specializing in process improvement, KPIs, quality assurance, risk management, project management, ISO 9001, and ISO 27001. Recently, I've ventured into the fascinating realms of Business Analysis and Data Analysis.
 
 
 
