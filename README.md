@@ -9,7 +9,7 @@
 </p> <br />
  
 
-- 👋 Hello, I’m Israel Munguia.
+👋 Hello, I’m Israel Munguia.
 
 
 
